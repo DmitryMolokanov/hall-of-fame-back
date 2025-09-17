@@ -1,0 +1,61 @@
+# Логи
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Директория для запуска
+dist
+build
+
+# Кэш зависимостей
+.node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Директории зависимостей
+node_modules/
+jspm_packages/
+
+# Кэш TypeScript
+*.tsbuildinfo
+
+# Пакеты зависимости
+# Обычно включаются в репозиторий, но можно игнорировать для некоторых проектов
+# node_modules/
+
+# Кэш покрытия кода
+coverage/
+*.lcov
+
+# Файлы nyc test runner
+.nyc_output
+
+# Файлы окружения
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE файлы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Файлы операционной системы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Временные файлы
+tmp/
+temp/
