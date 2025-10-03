@@ -1,7 +1,7 @@
 import { Sequelize, DataTypes } from 'sequelize'
 import sequelize from '../config/sequelizeConfig'
 
-const Boxer = sequelize.define('boxers', {
+const BoxerModel = sequelize.define('boxers', {
     id: {
         type: DataTypes.STRING,
         primaryKey: true,
@@ -53,4 +53,4 @@ const Boxer = sequelize.define('boxers', {
 });
 
 
-export default Boxer
+export default BoxerModel
