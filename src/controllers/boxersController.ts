@@ -1,6 +1,7 @@
 import BoxerModel from "../models/boxerModel"
 import { Request, Response } from "express"
 import crypto from 'crypto'
+import { Op } from "sequelize"
 
 
 export const getAllBoxers = async (req: Request, res: Response) => {
@@ -57,5 +58,20 @@ export const deleteBoxer = async (req: Request, res: Response) => {
     } catch (err) {
         console.log(err)
         res.send(err)
+    }
+}
+
+export const searchBoxer = async (req: Request, res: Response) => {
+    const search = req.body.search
+    try {
+        const response = await BoxerModel.findAll({
+            where: {
+                name:
+                    { [Op.iLike]: `%${search}%` }
+            }
+        })
+        res.send(response)
+    } catch (err) {
+        console.log(err)
     }
 }
