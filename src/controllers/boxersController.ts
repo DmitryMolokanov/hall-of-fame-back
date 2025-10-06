@@ -5,12 +5,14 @@ import { Op } from "sequelize"
 
 
 export const getAllBoxers = async (req: Request, res: Response) => {
-    const { limit, offset } = req.body
-    try {
-        const response = await BoxerModel.findAll({ limit, offset })
-        res.send(response)
-    } catch (err) {
-        console.log(err)
+    const { limit, offset } = req.query
+    if (limit && offset) {
+        try {
+            const response = await BoxerModel.findAll({ limit: +limit, offset: +offset })
+            res.send(response)
+        } catch (err) {
+            console.log(err)
+        }
     }
 }
 
