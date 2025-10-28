@@ -9,7 +9,7 @@ export const getAllBoxers = async (req: Request, res: Response) => {
     try {
         let response
         if (limit && offset) {
-            response = await BoxerModel.findAll({ limit: +limit, offset: +offset })
+            response = await BoxerModel.findAll({ limit: +limit, offset: +offset, order: ['name'] })
         } else {
             response = await BoxerModel.findAll({ order: ['name'] })
         }
