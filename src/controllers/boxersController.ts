@@ -5,11 +5,18 @@ import { Op } from "sequelize"
 
 
 export const getAllBoxers = async (req: Request, res: Response) => {
-    const { limit, offset } = req.query
+    const { limit, offset, sortOrder, sortBy } = req.query
+    const parseLimit = parseInt(limit as string)
+    const parseOffset = parseInt(offset as string)
+
     try {
         let response
-        if (limit && offset) {
-            response = await BoxerModel.findAll({ limit: +limit, offset: +offset, order: ['name'] })
+        if (limit && offset && sortBy && sortOrder) {
+            response = await BoxerModel.findAll({
+                limit: parseLimit,
+                offset: parseOffset,
+                order: [[sortBy as string, sortOrder as string]],
+            })
         } else {
             response = await BoxerModel.findAll({ order: ['name'] })
         }

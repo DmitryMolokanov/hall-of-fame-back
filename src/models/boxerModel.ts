@@ -40,7 +40,7 @@ const BoxerModel = sequelize.define('boxers', {
         type: DataTypes.STRING,
     },
     bouts: {
-        type: DataTypes.STRING,
+        type: DataTypes.INTEGER,
         allowNull: false,
         validate: {
             notEmpty: {
@@ -53,7 +53,7 @@ const BoxerModel = sequelize.define('boxers', {
         }
     },
     won: {
-        type: DataTypes.STRING,
+        type: DataTypes.INTEGER,
         allowNull: false,
         validate: {
             notEmpty: {
@@ -67,7 +67,7 @@ const BoxerModel = sequelize.define('boxers', {
 
     },
     lost: {
-        type: DataTypes.STRING,
+        type: DataTypes.INTEGER,
         allowNull: false,
         validate: {
             notEmpty: {
@@ -80,13 +80,13 @@ const BoxerModel = sequelize.define('boxers', {
         }
     },
     drew: {
-        type: DataTypes.STRING,
+        type: DataTypes.INTEGER,
     },
     nc: {
-        type: DataTypes.STRING,
+        type: DataTypes.INTEGER,
     },
     kos: {
-        type: DataTypes.STRING,
+        type: DataTypes.INTEGER,
         allowNull: false,
         validate: {
             notEmpty: {
@@ -99,7 +99,7 @@ const BoxerModel = sequelize.define('boxers', {
         }
     },
     induction: {
-        type: DataTypes.STRING,
+        type: DataTypes.INTEGER,
         allowNull: false,
         validate: {
             notEmpty: {
