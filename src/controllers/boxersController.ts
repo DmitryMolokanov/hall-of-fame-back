@@ -24,8 +24,12 @@ export const getAllBoxers = async (req: Request, res: Response) => {
 
 
 export const getBoxer = async (req: Request, res: Response) => {
-    const { id } = req.body
+    const { id } = req.params
     const response = await BoxerModel.findOne({ where: { id } })
+    if (!response) {
+        res.status(404).send({ message: 'Boxer not found' })
+        return
+    }
     res.send(response)
 }
 
