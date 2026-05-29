@@ -9,83 +9,52 @@ export const getAllBoxers = async (req: Request, res: Response) => {
     const parseLimit = parseInt(limit as string)
     const parseOffset = parseInt(offset as string)
 
-    try {
-        let response
-        if (limit && offset && sortBy && sortOrder) {
-            response = await BoxerModel.findAll({
-                limit: parseLimit,
-                offset: parseOffset,
-                order: [[sortBy as string, sortOrder as string]],
-            })
-        } else {
-            response = await BoxerModel.findAll({ order: ['name'] })
-        }
-        res.send(response)
-    } catch (err) {
-        console.log(err)
+    let response
+    if (limit && offset && sortBy && sortOrder) {
+        response = await BoxerModel.findAll({
+            limit: parseLimit,
+            offset: parseOffset,
+            order: [[sortBy as string, sortOrder as string]],
+        })
+    } else {
+        response = await BoxerModel.findAll({ order: ['name'] })
     }
+    res.send(response)
 }
-
 
 
 export const getBoxer = async (req: Request, res: Response) => {
     const { id } = req.body
-    try {
-        const response = await BoxerModel.findOne({ where: { id } })
-        res.send(response)
-    } catch (err) {
-        console.log(err)
-    }
+    const response = await BoxerModel.findOne({ where: { id } })
+    res.send(response)
 }
 
 export const createBoxer = async (req: Request, res: Response) => {
     const newBoxer = req.body
-    const id = crypto.randomUUID()
-    newBoxer.id = id
-    console.log(newBoxer)
-    try {
-        await BoxerModel.create(newBoxer)
-        res.sendStatus(201)
-    } catch (err) {
-        console.log(err)
-        res.send(err)
-    }
+    newBoxer.id = crypto.randomUUID()
+    await BoxerModel.create(newBoxer)
+    res.sendStatus(201)
 }
 
 export const updateBoxer = async (req: Request, res: Response) => {
     const newBoxer = req.body
     const id = req.body.id
-    try {
-        await BoxerModel.update(newBoxer, { where: { id } })
-        res.sendStatus(200)
-    } catch (err) {
-        console.log(err)
-        res.send(err)
-    }
+    await BoxerModel.update(newBoxer, { where: { id } })
+    res.sendStatus(200)
 }
 
 export const deleteBoxer = async (req: Request, res: Response) => {
     const id = req.body.id
-    try {
-        await BoxerModel.destroy({ where: { id } })
-        res.sendStatus(200)
-    } catch (err) {
-        console.log(err)
-        res.send(err)
-    }
+    await BoxerModel.destroy({ where: { id } })
+    res.sendStatus(200)
 }
 
 export const searchBoxer = async (req: Request, res: Response) => {
     const search = req.body.search
-    try {
-        const response = await BoxerModel.findAll({
-            where: {
-                name:
-                    { [Op.iLike]: `%${search}%` }
-            }
-        })
-        res.send(response)
-    } catch (err) {
-        console.log(err)
-    }
+    const response = await BoxerModel.findAll({
+        where: {
+            name: { [Op.iLike]: `%${search}%` }
+        }
+    })
+    res.send(response)
 }
