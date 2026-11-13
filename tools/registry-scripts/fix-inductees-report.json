@@ -1,0 +1,367 @@
+{
+  "removed": [
+    "Lou Duva",
+    "Nat Fleischer",
+    "Eddie Futch",
+    "Harry Gibbs",
+    "Charley Goldman",
+    "Jack Kearns",
+    "John Douglas, 9th Marquess of Queensberry",
+    "Arthur Mercante Sr.",
+    "Richard Steele",
+    "Emanuel Steward",
+    "José Sulaimán",
+    "Teddy Atlas",
+    "Ralph Citro",
+    "Nigel Collins",
+    "Ray Arcel",
+    "Jarvis Astaire",
+    "Kenny Bayless",
+    "George Benton",
+    "Whitey Bimstein",
+    "Frank Cappuccino",
+    "Bill Cayton",
+    "Stanley Christodoulou",
+    "Gil Clancy",
+    "Cus D'Amato",
+    "Angelo Dundee",
+    "Harry Mullan",
+    "John Graham Chambers"
+  ],
+  "still": [
+    {
+      "name": "Barney Aaron",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Barney_Aaron"
+    },
+    {
+      "name": "Young Barney Aaron",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Young_Barney_Aaron"
+    },
+    {
+      "name": "Caleb Baldwin",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Caleb_Baldwin_(boxer)"
+    },
+    {
+      "name": "James Belcher",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/James_Belcher"
+    },
+    {
+      "name": "Benjamin Brain",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Benjamin_Brain"
+    },
+    {
+      "name": "Jack Broughton",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Jack_Broughton"
+    },
+    {
+      "name": "James Burke",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/James_Burke_(boxer)"
+    },
+    {
+      "name": "Jem Carney",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Jem_Carney"
+    },
+    {
+      "name": "Arthur Chambers",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Arthur_Chambers"
+    },
+    {
+      "name": "Joe Coburn",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Joe_Coburn"
+    },
+    {
+      "name": "Tom Cribb",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Tom_Cribb"
+    },
+    {
+      "name": "Dick Curtis",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Dick_Curtis_(boxer)"
+    },
+    {
+      "name": "Billy Edwards",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Billy_Edwards_(boxer)"
+    },
+    {
+      "name": "James Figg",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/James_Figg"
+    },
+    {
+      "name": "Joe Goss",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Joe_Goss"
+    },
+    {
+      "name": "John Gully",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/John_Gully"
+    },
+    {
+      "name": "John C. Heenan",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/John_C._Heenan"
+    },
+    {
+      "name": "John Jackson",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/John_Jackson_(English_boxer)"
+    },
+    {
+      "name": "Tom Johnson",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Tom_Johnson_(bareknuckle_boxer)"
+    },
+    {
+      "name": "Paddington Tom Jones",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Paddington_Tom_Jones"
+    },
+    {
+      "name": "Thomas King",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Thomas_King_(boxer)"
+    },
+    {
+      "name": "Nat Langham",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Nat_Langham"
+    },
+    {
+      "name": "Jem Mace",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Jem_Mace"
+    },
+    {
+      "name": "Daniel Mendoza",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Daniel_Mendoza"
+    },
+    {
+      "name": "Tom Molineaux",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Tom_Molineaux"
+    },
+    {
+      "name": "John Morrissey",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/John_Morrissey"
+    },
+    {
+      "name": "Hen Pearce",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Hen_Pearce"
+    },
+    {
+      "name": "Jack Randall",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Jack_Randall_(boxer)"
+    },
+    {
+      "name": "Bill Richmond",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Bill_Richmond"
+    },
+    {
+      "name": "Dutch Sam",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Dutch_Sam"
+    },
+    {
+      "name": "Young Dutch Sam",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Young_Dutch_Sam"
+    },
+    {
+      "name": "Tom Sayers",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Tom_Sayers"
+    },
+    {
+      "name": "Tom Spring",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Tom_Spring"
+    },
+    {
+      "name": "Owen Swift",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Owen_Swift"
+    },
+    {
+      "name": "William Thompson",
+      "missing": [
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/William_Thompson_(boxer)"
+    },
+    {
+      "name": "Jem Ward",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Jem_Ward"
+    },
+    {
+      "name": "James Wharton",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/James_Wharton_(boxer)"
+    },
+    {
+      "name": "Jimmy Clabby",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Jimmy_Clabby"
+    },
+    {
+      "name": "Charley Mitchell",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Charley_Mitchell_(boxer)"
+    }
+  ]
+}

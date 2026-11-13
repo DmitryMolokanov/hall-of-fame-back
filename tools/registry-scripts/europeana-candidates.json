@@ -1,0 +1,1059 @@
+[
+  {
+    "kind": "boxer",
+    "name": "Chang Jung-koo",
+    "born": "1963-02-04",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Charley Burley",
+    "born": "1917-09-06",
+    "died": "1992-10-16",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Fred Apostoli",
+    "born": "1913-02-02",
+    "died": "1973-11-29",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Iván Calderón",
+    "born": "1975-01-27",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Jack Kid Berg",
+    "born": "1909-06-28",
+    "died": "1991-04-22",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Julian Jackson",
+    "born": "1960-09-12",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Ken Buchanan",
+    "born": "1945-06-28",
+    "died": "2023-04-01",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Mark Johnson",
+    "born": "1971-08-13",
+    "died": null,
+    "candidates": [
+      {
+        "id": "/854/NHMUKXBOTXBM000546940",
+        "title": "Disepalum plagioneurum (Diels) D.M.Johnson",
+        "description": "Holotype",
+        "year": "1931",
+        "provider": "The Trustees of the Natural History Museum, London",
+        "rights": "http://creativecommons.org/licenses/by/4.0/",
+        "creator": null,
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fdata.nhm.ac.uk%2Fmedia%2Fe7265aea-4ef8-4c36-8ea0-6d0fb157261e&type=IMAGE",
+        "image": "https://data.nhm.ac.uk/media/e7265aea-4ef8-4c36-8ea0-6d0fb157261e",
+        "page": "https://www.europeana.eu/item/854/NHMUKXBOTXBM000546940?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      }
+    ]
+  },
+  {
+    "kind": "boxer",
+    "name": "Orlando Canizales",
+    "born": "1965-11-25",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Timothy Bradley",
+    "born": "1983-08-29",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Sid Terris",
+    "born": "1904-09-26",
+    "died": "1974-12-30",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Teddy Yarosz",
+    "born": "1910-06-24",
+    "died": "1974-03-29",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Barney Aaron",
+    "born": "1800-11-21",
+    "died": "1850-01-01",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Tom Allen",
+    "born": "1840-04-01",
+    "died": "1903-04-05",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Benjamin Brain",
+    "born": "1753-01-01",
+    "died": "1794-04-08",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Young Dutch Sam",
+    "born": "1808-01-30",
+    "died": "1843-11-04",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Ricardo López",
+    "born": "1966-07-25",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Rafael Márquez",
+    "born": "1975-03-25",
+    "died": null,
+    "candidates": [
+      {
+        "id": "/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_2605_ent0",
+        "title": "Plaza de Toros de Madrid [Material gráfico] : el domingo 22 de junio de 1924 se verificará si el tiempo no lo impide, la 12ª corrida de abono",
+        "description": "\"Se lidiarán seis toros ... de la acreditada ganadería de Don Fernando Villalón de Sevilla, lidiadores, picadores, Manuel Menéndez (Artillerito ), Rafael Márquez (Mazzantini); Mariano Liñán Francia, F",
+        "year": "1924",
+        "provider": "Digital Library of Madrid",
+        "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "https://hispana.mcu.es/lod/oai:bibliotecavirtualmadrid.comunidad.madrid:2605#ent2",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fbibliotecavirtualmadrid.comunidad.madrid%2Fbvmadrid_publicacion%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D10802716%26formato%3Djpg%26anchoMaximo%3D2400&type=IMAGE",
+        "image": "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/i18n/catalogo_imagenes/imagen_id.do?idImagen=10802716&formato=jpg&anchoMaximo=2400",
+        "page": "https://www.europeana.eu/item/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_2605_ent0?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      },
+      {
+        "id": "/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_2652_ent0",
+        "title": "Plaza de Toros de Madrid [Material gráfico] : el domingo 3 de mayo de 1925 se verificará, si el tiempo no lo impide, la 3ª corrida de abono, presidirá la plaza la Autoridad competente",
+        "description": "\"Se lidiarán seis toros, de cuatro años para cinco, con divisa negra y oro viejo, de la acreditada ganadería del Excmo. Sr. Marqués de Villamarta de Sevilla. Lidiadores, picadores, Rafael Márquez (Maz",
+        "year": "1925",
+        "provider": "Digital Library of Madrid",
+        "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "https://hispana.mcu.es/lod/oai:bibliotecavirtualmadrid.comunidad.madrid:2652#ent2",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fbibliotecavirtualmadrid.comunidad.madrid%2Fbvmadrid_publicacion%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D10802643&type=IMAGE",
+        "image": "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/i18n/catalogo_imagenes/imagen_id.do?idImagen=10802643",
+        "page": "https://www.europeana.eu/item/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_2652_ent0?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      },
+      {
+        "id": "/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_2633_ent0",
+        "title": "Plaza de Toros de Madrid [Material gráfico] : el domingo 8 de octubre de 1922 se verificará, si el tiempo no lo impide, una corrida de toros extraordinaria",
+        "description": "\"Se lidiarán seis toros ... de la acreditada ganadería de Don Felipe Montoya de Madrid, antes del Excmo. Sr. Marqués de Cañadahonda, lidiadores, picadores, Rafael Márquez (Mazzantini), Juan Mata (Juan",
+        "year": "1922",
+        "provider": "Digital Library of Madrid",
+        "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "https://hispana.mcu.es/lod/oai:bibliotecavirtualmadrid.comunidad.madrid:2633#ent2",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fbibliotecavirtualmadrid.comunidad.madrid%2Fbvmadrid_publicacion%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D10802687&type=IMAGE",
+        "image": "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/i18n/catalogo_imagenes/imagen_id.do?idImagen=10802687",
+        "page": "https://www.europeana.eu/item/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_2633_ent0?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      },
+      {
+        "id": "/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_609816_ent0",
+        "title": "Plaza de Toros de Madrid : inauguración de la temporada, corrida de toros extraordinaria que se verificará, si el tiempo no lo impide, el domingo, 8 de abril de 1928, Pascua de Resurrección, presidirá la plaza la Autoridad competente",
+        "description": "\"Se lidiarán seis toros ... de la acreditada ganadería de Don Francisco Molina antes de la Urcola, de Utrera (Sevilla). Lidiadores, picadores, Rafael Márquez (Mazzantini), Joaquín Pons (Barretina), An",
+        "year": "1928",
+        "provider": "Digital Library of Madrid",
+        "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "https://hispana.mcu.es/lod/oai:bibliotecavirtualmadrid.comunidad.madrid:609816#ent2",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fbibliotecavirtualmadrid.comunidad.madrid%2Fbvmadrid_publicacion%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D12258185&type=IMAGE",
+        "image": "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/i18n/catalogo_imagenes/imagen_id.do?idImagen=12258185",
+        "page": "https://www.europeana.eu/item/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_609816_ent0?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      }
+    ]
+  },
+  {
+    "kind": "boxer",
+    "name": "Brian Mitchell",
+    "born": "1961-08-30",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Terry Norris",
+    "born": "1967-06-17",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Willie Pastrano",
+    "born": "1935-11-27",
+    "died": "1997-12-06",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Eddie Perkins",
+    "born": "1937-03-03",
+    "died": "2012-05-10",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Johnny Tapia",
+    "born": "1967-02-13",
+    "died": "2012-05-27",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "José Torres",
+    "born": "1936-05-03",
+    "died": "2009-01-19",
+    "candidates": [
+      {
+        "id": "/296/https___hispana_mcu_es_lod_oai_biblioteca_ranf_com_14249_ent0",
+        "title": "José Torres Cano, Casariche [Material gráfico]",
+        "description": "Tít. tomado de anotación ms.",
+        "year": "1888",
+        "provider": "Biblioteca Virtual de la Real Academia Nacional de Farmacia",
+        "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "https://hispana.mcu.es/lod/oai:biblioteca.ranf.com:14249#ent3",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fbibliotecavirtual.ranf.com%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D10050702&type=IMAGE",
+        "image": "http://bibliotecavirtual.ranf.com/i18n/catalogo_imagenes/imagen_id.do?idImagen=10050702",
+        "page": "https://www.europeana.eu/item/296/https___hispana_mcu_es_lod_oai_biblioteca_ranf_com_14249_ent0?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      },
+      {
+        "id": "/1417/https___archief_nl_id_foto_abc60c10_d0b4_102d_bcf8_003048976d84",
+        "title": "Kolonel Juan Jose Torres van Bolivia",
+        "description": "Kolonel Juan Jose Torres van Bolivia",
+        "year": "",
+        "provider": "National Archives of the Netherlands",
+        "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Fotograaf Onbekend / Anefo",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fservice.archief.nl%2Fiip%2F6d%2F4e%2F96%2F3c%2F22%2Fb9%2F4b%2F45%2Fad%2F5f%2F20%2F64%2F50%2F84%2Fba%2Fce%2F350dd603-2e10-4b6e-bbf6-55d6a11c155a.jp2%2Ffull%2Fmax%2F0%2Fdefault.jpg&type=IMAGE",
+        "image": "",
+        "page": "https://www.europeana.eu/item/1417/https___archief_nl_id_foto_abc60c10_d0b4_102d_bcf8_003048976d84?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      }
+    ]
+  },
+  {
+    "kind": "boxer",
+    "name": "Winky Wright",
+    "born": "1971-11-26",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Yuh Myung-woo",
+    "born": "1964-01-10",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Hilario Zapata",
+    "born": "1958-08-19",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Carlos Zárate",
+    "born": "1951-05-23",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Fritzie Zivic",
+    "born": "1913-05-08",
+    "died": "1984-05-17",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Benny Bass",
+    "born": "1904-12-04",
+    "died": "1975-06-24",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Christopher Battalino",
+    "born": "1908-02-18",
+    "died": "1977-07-25",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Eddie Booker",
+    "born": "1917-11-05",
+    "died": "1975-01-26",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Benny Lynch",
+    "born": "1913-08-02",
+    "died": "1946-08-06",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Freddie Miller",
+    "born": "1911-04-03",
+    "died": "1962-05-08",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Kid Norfolk",
+    "born": "1893-07-10",
+    "died": "1968-04-15",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Masao Ohba",
+    "born": "1949-10-21",
+    "died": "1973-01-25",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Ken Overlin",
+    "born": "1910-08-15",
+    "died": "1969-07-24",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Billy Petrolle",
+    "born": "1905-01-10",
+    "died": "1983-05-14",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Wesley Ramey",
+    "born": "1909-09-17",
+    "died": "1997-03-10",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Pernell Whitaker",
+    "born": "1964-01-02",
+    "died": "2019-07-14",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Nigel Benn",
+    "born": "1964-01-22",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Herbert Lewis Hardwick",
+    "born": "1914-05-02",
+    "died": "1966-12-27",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Barbara Buttrick",
+    "born": "1929",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Cathy Davis",
+    "born": "1952",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "JoAnn Hagen",
+    "born": "1931",
+    "died": "2004-02-05",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Theresa Kibby",
+    "born": "1953-08-12",
+    "died": "2021-09-04",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Jackie Tonawanda",
+    "born": "1933-09-04",
+    "died": "2009-06-09",
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Marian Trimiar",
+    "born": "1953-08-15",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Yessica Chávez",
+    "born": "1988-07-15",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Mary Jo Sanders",
+    "born": "1974-01-13",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Laura Serrano",
+    "born": "1967-10-20",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "boxer",
+    "name": "Ann Wolfe",
+    "born": "1971-01-17",
+    "died": null,
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Eddie Futch",
+    "born": "1911-08-09",
+    "died": "2001-10-10",
+    "role": "trainer",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "George Benton",
+    "born": "1933-05-15",
+    "died": "2011-09-19",
+    "role": "trainer",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Whitey Bimstein",
+    "born": "1897-01-10",
+    "died": "1969",
+    "role": "trainer",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Gil Clancy",
+    "born": "1922-05-30",
+    "died": "2011-03-31",
+    "role": "trainer",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Mickey Duff",
+    "born": "1929-06-07",
+    "died": "2014-03-22",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Chris Dundee",
+    "born": "1908",
+    "died": "1998-11-16",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Dan Duva",
+    "born": "1951-11-07",
+    "died": "1996-01-30",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Don Elbaum",
+    "born": "1931-06-16",
+    "died": "2025-07-27",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Shelly Finkel",
+    "born": "1944-06-27",
+    "died": null,
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Bob Goodman",
+    "born": "1939-06-08",
+    "died": "2023",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Jarvis Astaire",
+    "born": "1923-10-06",
+    "died": "2021-08-21",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Umberto Branchini",
+    "born": "1914-07-17",
+    "died": "1997-03-01",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Teddy Brenner",
+    "born": "1918-01-01",
+    "died": "2000-01-07",
+    "role": "promoter",
+    "candidates": [
+      {
+        "id": "/1417/https___archief_nl_id_foto_aed3b2d6_d0b4_102d_bcf8_003048976d84",
+        "title": "Baby's in boxen bij de kinderopvang van kibboets Kiwath Brenner",
+        "description": "Baby's in boxen bij de kinderopvang van kibboets Kiwath Brenner",
+        "year": "",
+        "provider": "National Archives of the Netherlands",
+        "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Poll, Willem van de",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fservice.archief.nl%2Fiip%2Fc1%2Ff3%2Ff1%2F53%2Ff0%2Ff9%2F48%2F97%2F99%2F17%2F9e%2F92%2F1f%2F5e%2F9e%2Fed%2F61ab1367-ded5-493b-a637-e298174f43f8.jp2%2Ffull%2Fmax%2F0%2Fdefault.jpg&type=IMAGE",
+        "image": "",
+        "page": "https://www.europeana.eu/item/1417/https___archief_nl_id_foto_aed3b2d6_d0b4_102d_bcf8_003048976d84?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      },
+      {
+        "id": "/1417/https___archief_nl_id_foto_aed3b0a6_d0b4_102d_bcf8_003048976d84",
+        "title": "Verzorgsters en peuters in boxen bij de kinderopvang van kibboets Kiwath Brenner",
+        "description": "Verzorgsters en peuters in boxen bij de kinderopvang van kibboets Kiwath Brenner",
+        "year": "",
+        "provider": "National Archives of the Netherlands",
+        "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Poll, Willem van de",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fservice.archief.nl%2Fiip%2Ff7%2Fab%2F59%2F41%2F38%2Fac%2F46%2F5f%2F8b%2Fca%2F87%2F1a%2F2e%2F07%2Ff9%2F0e%2F8f23172f-0167-4048-bdf1-e239b22959d4.jp2%2Ffull%2Fmax%2F0%2Fdefault.jpg&type=IMAGE",
+        "image": "",
+        "page": "https://www.europeana.eu/item/1417/https___archief_nl_id_foto_aed3b0a6_d0b4_102d_bcf8_003048976d84?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      },
+      {
+        "id": "/1417/https___archief_nl_id_foto_aed3b15a_d0b4_102d_bcf8_003048976d84",
+        "title": "Verzorgster en peuters in boxen bij de kinderopvang van kibboets Kiwath Brenner",
+        "description": "Verzorgster en peuters in boxen bij de kinderopvang van kibboets Kiwath Brenner",
+        "year": "",
+        "provider": "National Archives of the Netherlands",
+        "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Poll, Willem van de",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fservice.archief.nl%2Fiip%2Ff1%2F66%2F07%2F0b%2Fc3%2Fc1%2F41%2F3b%2Fa9%2F5e%2F1c%2Fcf%2Ff0%2Ff9%2Fbf%2F98%2F127d5d7e-3abe-450c-ba1d-f467d44fef89.jp2%2Ffull%2Fmax%2F0%2Fdefault.jpg&type=IMAGE",
+        "image": "",
+        "page": "https://www.europeana.eu/item/1417/https___archief_nl_id_foto_aed3b15a_d0b4_102d_bcf8_003048976d84?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      },
+      {
+        "id": "/1417/https___archief_nl_id_foto_aed3b3b2_d0b4_102d_bcf8_003048976d84",
+        "title": "Verzorgster en baby's in boxen bij de kinderopvang van kibboets Kiwath Brenner",
+        "description": "Verzorgster en baby's in boxen bij de kinderopvang van kibboets Kiwath Brenner",
+        "year": "",
+        "provider": "National Archives of the Netherlands",
+        "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Poll, Willem van de",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fservice.archief.nl%2Fiip%2Ff8%2Fac%2F23%2Fe6%2F48%2F5e%2F4c%2Fc4%2Fa5%2Fd6%2F7e%2F35%2Fe5%2F3d%2Fad%2Fbd%2F5c73467b-2726-439b-9770-7e7181230c58.jp2%2Ffull%2Fmax%2F0%2Fdefault.jpg&type=IMAGE",
+        "image": "",
+        "page": "https://www.europeana.eu/item/1417/https___archief_nl_id_foto_aed3b3b2_d0b4_102d_bcf8_003048976d84?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      },
+      {
+        "id": "/746/_021027457764",
+        "title": "Gassbrenner",
+        "description": "Beholder med påsatt brenner. Inneholder gassbeholder. Ytterbeholder er påmalt rød varseltrekant  og firmalogo. Blålakkert.",
+        "year": "",
+        "provider": "Norwegian Pharmacy Museum",
+        "rights": "http://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "LABOGAZ S",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fpdms.dimu.org%2Fimage%2F0231uUNUVsUZ%3Fdimension%3D1200x1200&type=IMAGE",
+        "image": "https://pdms.dimu.org/image/0231uUNUVsUZ?dimension=1200x1200",
+        "page": "https://www.europeana.eu/item/746/_021027457764?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      },
+      {
+        "id": "/1417/https___archief_nl_id_foto_aed3b858_d0b4_102d_bcf8_003048976d84",
+        "title": "Jongen en peuters bij de kinderopvang van kibboets Kiwath Brenner",
+        "description": "Jongen en peuters bij de kinderopvang van kibboets Kiwath Brenner",
+        "year": "",
+        "provider": "National Archives of the Netherlands",
+        "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Poll, Willem van de",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fservice.archief.nl%2Fiip%2Fd9%2F3c%2Fb5%2Ff8%2F42%2Fa1%2F4b%2F1a%2Fab%2Ff7%2Fe7%2F3c%2F88%2F0c%2F77%2Ff6%2F364eaa2f-8371-4933-8b28-5151fcc8bd54.jp2%2Ffull%2Fmax%2F0%2Fdefault.jpg&type=IMAGE",
+        "image": "",
+        "page": "https://www.europeana.eu/item/1417/https___archief_nl_id_foto_aed3b858_d0b4_102d_bcf8_003048976d84?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      },
+      {
+        "id": "/1417/https___archief_nl_id_foto_aed3aff2_d0b4_102d_bcf8_003048976d84",
+        "title": "Peuters in een box bij de kinderopvang van kibboets Kiwath Brenner",
+        "description": "Peuters in een box bij de kinderopvang van kibboets Kiwath Brenner",
+        "year": "",
+        "provider": "National Archives of the Netherlands",
+        "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Poll, Willem van de",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fservice.archief.nl%2Fiip%2F90%2F9e%2Fad%2F31%2Fab%2F98%2F42%2Fc7%2F89%2F6f%2F48%2F34%2F29%2F4b%2F63%2F6e%2F84115f89-29a0-4218-b8fa-8c29748ec2a1.jp2%2Ffull%2Fmax%2F0%2Fdefault.jpg&type=IMAGE",
+        "image": "",
+        "page": "https://www.europeana.eu/item/1417/https___archief_nl_id_foto_aed3aff2_d0b4_102d_bcf8_003048976d84?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      },
+      {
+        "id": "/1417/https___archief_nl_id_foto_aed3b470_d0b4_102d_bcf8_003048976d84",
+        "title": "Verzorgsters en baby's bij de kinderopvang van kibboets Kiwath Brenner",
+        "description": "Verzorgsters en baby's bij de kinderopvang van kibboets Kiwath Brenner",
+        "year": "",
+        "provider": "National Archives of the Netherlands",
+        "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Poll, Willem van de",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fservice.archief.nl%2Fiip%2Fdc%2F51%2Fb7%2F01%2F0a%2F6b%2F49%2F75%2Fbd%2F2a%2F9f%2Fd5%2Faf%2F76%2F81%2F86%2Ff491a5a3-44b4-4ce7-96ee-4bb6031bfa7f.jp2%2Ffull%2Fmax%2F0%2Fdefault.jpg&type=IMAGE",
+        "image": "",
+        "page": "https://www.europeana.eu/item/1417/https___archief_nl_id_foto_aed3b470_d0b4_102d_bcf8_003048976d84?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "name": "Bill Cayton",
+    "born": "1918-06-06",
+    "died": "2003-10-04",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Irving Cohen",
+    "born": "1904-01-02",
+    "died": "1991-06-25",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Akihiko Honda",
+    "born": "1947-09-09",
+    "died": null,
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Jimmy Jacobs",
+    "born": "1930-02-18",
+    "died": "1988-03-23",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "James J. Johnston",
+    "born": "1875-11-28",
+    "died": "1946-05-07",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Jackie Kallen",
+    "born": "1946-04-23",
+    "died": null,
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Lope Sarreal",
+    "born": "1905-09-25",
+    "died": "1995-03-14",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Sam Silverman",
+    "born": "1909-12-25",
+    "died": "1977-07-09",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Jack Solomons",
+    "born": "1900-01-01",
+    "died": "1979-12-08",
+    "role": "promoter",
+    "candidates": [
+      {
+        "id": "/847/RIM_item_4953",
+        "title": "Affisch",
+        "description": "En programaffisch om boxning.\n\nText på affisch:\nTUESDAY\nSEPT. 25\nROYAL ALBERT HALL\nPresented by Jack Solomons\nRonnie James - Harry Hurst\nOlle Tandberg - Eddie Phillips\nCyril Gallie - Claude Dennington",
+        "year": "",
+        "provider": "Riksidrottsmuseum",
+        "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": null,
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Frim.kulturhotell.se%2Ffiles%2Foriginal%2Fa7800bff26d741395b2cbf168e311ec8.JPG&type=IMAGE",
+        "image": "https://rim.kulturhotell.se/files/original/a7800bff26d741395b2cbf168e311ec8.JPG",
+        "page": "https://www.europeana.eu/item/847/RIM_item_4953?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "name": "Bruce Trampler",
+    "born": "1949-08-11",
+    "died": null,
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Al Weill",
+    "born": "1893-12-28",
+    "died": "1969-10-20",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Whitey Esneault",
+    "born": "1891-09-13",
+    "died": "1968-01-20",
+    "role": "trainer",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Al Gavin",
+    "born": "1934-02-21",
+    "died": "2004-07-08",
+    "role": "trainer",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Jimmy Glenn",
+    "born": "1930-08-18",
+    "died": "2020-05-07",
+    "role": "trainer",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Joe Goossen",
+    "born": "1953-09-07",
+    "died": null,
+    "role": "trainer",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Bill Gore",
+    "born": "1892",
+    "died": "1975",
+    "role": "trainer",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Russ Anber",
+    "born": "1961-03-27",
+    "died": null,
+    "role": "trainer",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Freddie Brown",
+    "born": "1907-01-13",
+    "died": "1986-12-04",
+    "role": "trainer",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Amílcar Brusa",
+    "born": "1922-10-23",
+    "died": "2011-10-27",
+    "role": "trainer",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Arturo Cuyo Hernández",
+    "born": "1911-11-02",
+    "died": "1990-11-20",
+    "role": "trainer",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Jackie McCoy",
+    "born": "1923-10-04",
+    "died": "1997-01-13",
+    "role": "trainer",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Dewey Fragetta",
+    "born": "1909-07-16",
+    "died": "1977-09-09",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Don Fraser",
+    "born": "1927-01-28",
+    "died": "2019-10-30",
+    "role": "promoter",
+    "candidates": [
+      {
+        "id": "/11602/HERBARWUXWUXAUSTRIAX965919",
+        "title": "Leucostegia truncata (D. Don) Fraser-Jenk.",
+        "description": "",
+        "year": "",
+        "provider": "Herbarium WU, Institute of Botany",
+        "rights": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": null,
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.jacq.org%2Fimage.php%3Fmethod%3Deuropeana%26filename%3Dwu_0103858&type=IMAGE",
+        "image": "https://www.jacq.org/image.php?method=europeana&filename=wu_0103858",
+        "page": "https://www.europeana.eu/item/11602/HERBARWUXWUXAUSTRIAX965919?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      },
+      {
+        "id": "/11629/HERBARXBGBMXGERMANYXBX20X0213048",
+        "title": "Leptochilus pothifolius (D. Don) Fraser-Jenk.",
+        "description": "photo living plant",
+        "year": "",
+        "provider": "Berlin-Dahlem Botanical Garden and Botanical Museum",
+        "rights": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": null,
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fimage.bgbm.org%2Fimages%2Finternal%2FHerbarThumbs%2FB200213048__1_1700&type=IMAGE",
+        "image": "https://image.bgbm.org/images/internal/HerbarThumbs/B200213048__1_1700",
+        "page": "https://www.europeana.eu/item/11629/HERBARXBGBMXGERMANYXBX20X0213048?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      },
+      {
+        "id": "/11629/HERBARXBGBMXGERMANYXBX20X0220834",
+        "title": "Arachniodes cornu-cervi (D. Don) Fraser-Jenk.",
+        "description": "herbarium sheet",
+        "year": "",
+        "provider": "Berlin-Dahlem Botanical Garden and Botanical Museum",
+        "rights": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": null,
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fimage.bgbm.org%2Fimages%2Finternal%2FHerbarThumbs%2FB200220834_1700&type=IMAGE",
+        "image": "https://image.bgbm.org/images/internal/HerbarThumbs/B200220834_1700",
+        "page": "https://www.europeana.eu/item/11629/HERBARXBGBMXGERMANYXBX20X0220834?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      },
+      {
+        "id": "/1029/E00702188",
+        "title": "Leptochilus pothifolius (Buch.-Ham. ex D.Don) Fraser-Jenk.",
+        "description": "",
+        "year": "",
+        "provider": "Royal Botanic Garden Edinburgh",
+        "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": null,
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.rbge.org.uk%2Fherb%2Fiiif%2FE00702188%2Ffull%2F1200%2C%2F0%2Fdefault.jpg&type=IMAGE",
+        "image": "https://iiif.rbge.org.uk/herb/iiif/E00702188/full/1200,/0/default.jpg",
+        "page": "https://www.europeana.eu/item/1029/E00702188?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "name": "Brad Goodman",
+    "born": null,
+    "died": null,
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Dan Goossen",
+    "born": "1960-05-17",
+    "died": null,
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Don Chargin",
+    "born": "1928-06-05",
+    "died": "2018-09-28",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Lorraine Chargin",
+    "born": "1930-12-04",
+    "died": "2010-04-06",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "James W. Coffroth",
+    "born": "1872",
+    "died": "1943",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Cuco Conde",
+    "born": "1908",
+    "died": "1980-10",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Sam Ichinose",
+    "born": "1907-11-12",
+    "died": "1993-01-24",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Klaus-Peter Kohl",
+    "born": "1944-05-04",
+    "died": null,
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Rafael Mendoza",
+    "born": "1937-04-20",
+    "died": "2018-03-08",
+    "role": "promoter",
+    "candidates": [
+      {
+        "id": "/256/contributions_f7e561f0_9a04_013a_42ec_6eee0af4dd76",
+        "title": "Daniel Mendoza",
+        "description": "Daniel Mendoza, Puglist, 1764-1836, English Champion who proudly billed himself as 'Mendoza the Jew' lived here when writing 'The Art of Boxing'\n\nParadise Row, Bethnal Green",
+        "year": "",
+        "provider": "Europeana Foundation",
+        "rights": "http://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": null,
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcontribute.europeana.eu%2Fmedia%2Ff7e263d0-9a04-013a-42ec-6eee0af4dd76&type=IMAGE",
+        "image": "http://contribute.europeana.eu/media/f7e263d0-9a04-013a-42ec-6eee0af4dd76",
+        "page": "https://www.europeana.eu/item/256/contributions_f7e561f0_9a04_013a_42ec_6eee0af4dd76?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "name": "Dan Morgan",
+    "born": "1873-07-03",
+    "died": "1955-07-07",
+    "role": "promoter",
+    "candidates": [
+      {
+        "id": "/2021648/resource_document_collectiegelderland_CMRSEB7GNPLCNPFKXGRS3D7DTTU3UNX3UZ3OKUBANNA5UHWCIKXQ",
+        "title": "Persfoto Olympische Zomerspelen 1928 Amsterdam, 2202 winnaar lichtmiddengewicht Morgan NZE, Algemeen Fotobureau (Ltd.) Amsterdam 1928",
+        "description": "Persfoto 2202 'winnaar lichtmiddengewicht Morgan NZE', vervaardigd door het Algemeen Fotobureau (Ltd) Amsterdam. Dit fotobureau was speciaal door NOC (het latere NOC*NSF) opgericht en op deze spelen w",
+        "year": "",
+        "provider": "The Dutch Olympic Committee, Dutch Sports Federation",
+        "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Algemeen Fotobureau (Ltd) Amsterdam",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fimages.memorix.nl%2Fpgl_noc%2Fthumb%2Ffullsize%2Fad2666b7-bb6c-c85a-fba8-6b1fddc37c87.jpg&type=IMAGE",
+        "image": "https://images.memorix.nl/pgl_noc/thumb/fullsize/ad2666b7-bb6c-c85a-fba8-6b1fddc37c87.jpg",
+        "page": "https://www.europeana.eu/item/2021648/resource_document_collectiegelderland_CMRSEB7GNPLCNPFKXGRS3D7DTTU3UNX3UZ3OKUBANNA5UHWCIKXQ?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "name": "George Parnassus",
+    "born": "1897",
+    "died": "1975",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Rodolfo Sabbatini",
+    "born": "1927-08-17",
+    "died": "1986-01-06",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Herman Taylor",
+    "born": "1887-05-01",
+    "died": "1980-06-27",
+    "role": "promoter",
+    "candidates": [
+      {
+        "id": "/9200579/qjkvn7hn",
+        "title": "A boxing match on the island of Hapaee during a ceremony in honour of Captain Cook. Engraving by I. Taylor after J. Webber, 1780/1785.",
+        "description": "Lettering: A boxing match, in Hapaee ; J. Webber del. ; I. Taylor sc.",
+        "year": "",
+        "provider": "Wellcome Collection",
+        "rights": "http://creativecommons.org/licenses/by/4.0/",
+        "creator": "John Webber",
+        "preview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.wellcomecollection.org%2Fimage%2FV0044852.jpg%2Ffull%2F500%2C%2F0%2Fdefault.jpg&type=IMAGE",
+        "image": "https://iiif.wellcomecollection.org/image/V0044852.jpg/full/512,/0/default.jpg",
+        "page": "https://www.europeana.eu/item/9200579/qjkvn7hn?utm_source=api&utm_medium=api&utm_campaign=api2demo"
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "name": "Rip Valenti",
+    "born": "1901",
+    "died": "1986-01-10",
+    "role": "promoter",
+    "candidates": []
+  },
+  {
+    "kind": "person",
+    "name": "Lou Viscusi",
+    "born": "1909-06-15",
+    "died": "1997-08-10",
+    "role": "promoter",
+    "candidates": []
+  }
+]

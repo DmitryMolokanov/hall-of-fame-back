@@ -1,12 +1,14 @@
 import { Sequelize } from 'sequelize'
 import dotenv from 'dotenv'
 
-dotenv.config()
+// .env.local (local machine, not committed) takes precedence over .env
+dotenv.config({ path: ['.env.local', '.env'], quiet: true })
 
 const dbName = process.env.DATABASE_NAME;
 const dbUser = process.env.DATABASE_USER;
 const dbPassword = process.env.DATABASE_PASSWORD;
 const dbHost = process.env.DATABASE_URL;
+const dbPort = parseInt(process.env.DATABASE_PORT ?? '5432', 10);
 
 
 if (!dbName || !dbUser || !dbPassword || !dbHost) {
@@ -20,7 +22,8 @@ const sequelize = new Sequelize(
     {
         dialect: "postgres",
         host: dbHost,
-        port: 5432,
+        port: dbPort,
+        logging: false,
         define: {
             timestamps: false
         }

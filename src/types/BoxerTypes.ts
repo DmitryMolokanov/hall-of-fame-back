@@ -13,4 +13,11 @@ interface BoxerTypes {
     induction: string
     avatarImg: string
     img: string
+    category: string | null
+    slug: string | null
+    bioSourceUrl: string | null
+    imageAuthor: string | null
+    imageLicense: string | null
+    imageLicenseUrl: string | null
+    imageSourceUrl: string | null
 }

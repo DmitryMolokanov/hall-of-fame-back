@@ -1,0 +1,86 @@
+{
+  "added": [
+    "Barbara Buttrick",
+    "Cathy Davis",
+    "JoAnn Hagen",
+    "Theresa Kibby",
+    "Jackie Tonawanda",
+    "Marian Trimiar",
+    "Laila Ali",
+    "Alicia Ashley",
+    "Yessica Chávez",
+    "Jane Couch",
+    "Naoko Fujioka",
+    "Regina Halmich",
+    "Holly Holm",
+    "Christy Martin",
+    "Anne Sophie Mathis",
+    "Jackie Nava",
+    "Lucia Rijker",
+    "Mary Jo Sanders",
+    "Laura Serrano",
+    "Ana María Torres",
+    "Ann Wolfe"
+  ],
+  "skipped": [],
+  "incomplete": [
+    {
+      "name": "Barbara Buttrick",
+      "q": "Q4858794",
+      "missing": [
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Barbara_Buttrick"
+    },
+    {
+      "name": "JoAnn Hagen",
+      "q": "Q136416975",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/JoAnn_Hagen"
+    },
+    {
+      "name": "Theresa Kibby",
+      "q": "Q124256334",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Theresa_Kibby"
+    },
+    {
+      "name": "Jackie Tonawanda",
+      "q": "Q24649833",
+      "missing": [
+        "bouts",
+        "won",
+        "lost",
+        "kos"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Jackie_Tonawanda"
+    }
+  ],
+  "noPhoto": [
+    "Barbara Buttrick",
+    "Cathy Davis",
+    "JoAnn Hagen",
+    "Theresa Kibby",
+    "Jackie Tonawanda",
+    "Marian Trimiar",
+    "Yessica Chávez",
+    "Mary Jo Sanders",
+    "Laura Serrano",
+    "Ann Wolfe"
+  ],
+  "smallPhoto": [
+    "Jane Couch: 240x320",
+    "Naoko Fujioka: 287x360",
+    "Lucia Rijker: 158x251"
+  ]
+}

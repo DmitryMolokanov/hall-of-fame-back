@@ -1,0 +1,3815 @@
+[
+  {
+    "q": "Q18685830",
+    "name": "Kathy Duva",
+    "year": "2020",
+    "boxer": false,
+    "female": true
+  },
+  {
+    "q": "Q11762795",
+    "name": "Lou Duva",
+    "year": "1998",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q4697020",
+    "name": "Aileen Eaton",
+    "year": "2002",
+    "boxer": false,
+    "female": true
+  },
+  {
+    "q": "Q2495584",
+    "name": "Pierce Egan",
+    "year": "1991",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q23639023",
+    "name": "Whitey Esneault",
+    "year": "2016",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q7493898",
+    "name": "Shelly Finkel",
+    "year": "2010",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q1646534",
+    "name": "Nat Fleischer",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q52155344",
+    "name": "Richard Kyle Fox",
+    "year": "1997",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q3047271",
+    "name": "Eddie Futch",
+    "year": "1994",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q5669080",
+    "name": "Harry Gibbs",
+    "year": "2025",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q93584226",
+    "name": "Jimmy Glenn",
+    "year": "2026",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q5084307",
+    "name": "Charley Goldman",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q7376323",
+    "name": "Ruby Goldstein",
+    "year": "1994",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q4932567",
+    "name": "Bob Goodman",
+    "year": "2009",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q24301896",
+    "name": "Larry Hazzard Sr.",
+    "year": "2010",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q809044",
+    "name": "Barry Hearn",
+    "year": "2014",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q9160827",
+    "name": "Arturo \"Cuyo\" Hernández",
+    "year": "2013",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q108344481",
+    "name": "Chuck Hull",
+    "year": "2022",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q9333058",
+    "name": "Sam Ichinose",
+    "year": "2000",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q16012091",
+    "name": "Jimmy Jacobs",
+    "year": "1993",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q3313371",
+    "name": "Mike Jacobs",
+    "year": "1990",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q122766279",
+    "name": "James J. Johnston",
+    "year": "1999",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q136723801",
+    "name": "Guy Jutras",
+    "year": "2019",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q1030937",
+    "name": "Jackie Kallen",
+    "year": "2024",
+    "boxer": false,
+    "female": true
+  },
+  {
+    "q": "Q1677080",
+    "name": "Jack Kearns",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q344977",
+    "name": "Don King",
+    "year": "1997",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q1744816",
+    "name": "Klaus-Peter Kohl",
+    "year": "2018",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q324197",
+    "name": "Mills Lane",
+    "year": "2013",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q11686401",
+    "name": "Juan Carlos Lectoure",
+    "year": "2000",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q1585870",
+    "name": "Harold Lederman",
+    "year": "2016",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q16012828",
+    "name": "Jimmy Lennon",
+    "year": "2017",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q6200625",
+    "name": "Jimmy Lennon, Jr.",
+    "year": "2013",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q6267121",
+    "name": "Johnny Lewis",
+    "year": "2017",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q278806",
+    "name": "A. J. Liebling",
+    "year": "1992",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q976721",
+    "name": "Hugh Lowther, 5th Earl of Lonsdale",
+    "year": "1990",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q15436953",
+    "name": "Hugh D. McIntosh",
+    "year": "2012",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q133537996",
+    "name": "Harry Markson",
+    "year": "1992",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q335896",
+    "name": "John Douglas, 9th Marquess of Queensberry",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q88395900",
+    "name": "Rafael Mendoza",
+    "year": "2015",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q2865245",
+    "name": "Arthur Mercante Sr.",
+    "year": "1995",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q8015910",
+    "name": "William Muldoon",
+    "year": "1996",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q5561135",
+    "name": "Gilbert Odd",
+    "year": "1995",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q2008120",
+    "name": "Tom O'Rourke",
+    "year": "1999",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q61750582",
+    "name": "Dan Parker",
+    "year": "1996",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q6107011",
+    "name": "J. Russell Peltz",
+    "year": "2004",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q6755812",
+    "name": "Marc Ratner",
+    "year": "2016",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q713459",
+    "name": "Tex Rickard",
+    "year": "1990",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q515377",
+    "name": "Freddie Roach",
+    "year": "2012",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q116846086",
+    "name": "Jerry Roth",
+    "year": "2017",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q88397422",
+    "name": "Irving Rudd",
+    "year": "1999",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q88396876",
+    "name": "Rodolfo Sabbatini",
+    "year": "2006",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q13027518",
+    "name": "Lope Sarreal",
+    "year": "2005",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q71321",
+    "name": "Wilfried Sauerland",
+    "year": "2010",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q88398152",
+    "name": "George Siler",
+    "year": "1995",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q16383389",
+    "name": "Sam Silverman",
+    "year": "2002",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q30369405",
+    "name": "Steve Smoger",
+    "year": "2015",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q6115258",
+    "name": "Jack Solomons",
+    "year": "1995",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q16106815",
+    "name": "Richard Steele",
+    "year": "2014",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q126389725",
+    "name": "Fred Sternburg",
+    "year": "2024",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q979639",
+    "name": "Emanuel Steward",
+    "year": "1996",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3186572",
+    "name": "José Sulaimán",
+    "year": "2007",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q88399613",
+    "name": "Herman Taylor",
+    "year": "1998",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q19281756",
+    "name": "Bruce Trampler",
+    "year": "2010",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q204135",
+    "name": "Jimmy Walker",
+    "year": "1992",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q1444412",
+    "name": "Frank Warren",
+    "year": "2008",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q4704959",
+    "name": "Q4704959",
+    "year": "2003",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q7611771",
+    "name": "Steve Albert",
+    "year": "2018",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q5228237",
+    "name": "Dave Anderson",
+    "year": "2008",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q980488",
+    "name": "Teddy Atlas",
+    "year": "2019",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q9300220",
+    "name": "Al Bernstein",
+    "year": "2012",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q7363549",
+    "name": "Ron Borges",
+    "year": "2022",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q6199749",
+    "name": "Jimmy Cannon",
+    "year": "2002",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q15491370",
+    "name": "Harry Carpenter",
+    "year": "2011",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q9356329",
+    "name": "Ted Carroll",
+    "year": "2013",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q1749542",
+    "name": "Nick Charles",
+    "year": "2024",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q7287341",
+    "name": "Q7287341",
+    "year": "2001",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q19577430",
+    "name": "Nigel Collins",
+    "year": "2015",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1472983",
+    "name": "Howard Cosell",
+    "year": "2010",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q7674223",
+    "name": "Tad Dorgan",
+    "year": "2007",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q7612515",
+    "name": "Steve Farhood",
+    "year": "2017",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q110098583",
+    "name": "Bernard Fernandez",
+    "year": "2020",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q709751",
+    "name": "Paul Gallico",
+    "year": "2009",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q15513970",
+    "name": "Bill Gallo",
+    "year": "2001",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q110564781",
+    "name": "Randy Gordon",
+    "year": "2025",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q6195313",
+    "name": "Jim Gray",
+    "year": "2018",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q7369367",
+    "name": "Ross Greenburg",
+    "year": "2025",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q7307785",
+    "name": "Reg Gutteridge",
+    "year": "2002",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q11691304",
+    "name": "Colin Hart",
+    "year": "2013",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q4019813",
+    "name": "W. C. Heinz",
+    "year": "2004",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q57451627",
+    "name": "Kevin Iole",
+    "year": "2026",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q6183800",
+    "name": "Q6183800",
+    "year": "2015",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q5648371",
+    "name": "Hank Kaplan",
+    "year": "2005",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q16105128",
+    "name": "Michael Katz",
+    "year": "2012",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q11310929",
+    "name": "Joe Koizumi",
+    "year": "2008",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q6196281",
+    "name": "Jim Lampley",
+    "year": "2015",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q6166832",
+    "name": "Jay Larkin",
+    "year": "2021",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q3874304",
+    "name": "Neil Leifer",
+    "year": "2014",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q5931811",
+    "name": "Hugh McIlvanney",
+    "year": "2009",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q128188245",
+    "name": "Wallace Matthews",
+    "year": "2024",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q6490801",
+    "name": "Larry Merchant",
+    "year": "2009",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q11309313",
+    "name": "Jeff Smith",
+    "year": "2013",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1646251",
+    "name": "Billy Soose",
+    "year": "2009",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2604314",
+    "name": "Freddie Steele",
+    "year": "1999",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q717840",
+    "name": "Young Stribling",
+    "year": "1996",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2025303",
+    "name": "Bud Taylor",
+    "year": "2005",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1645843",
+    "name": "Lew Tendler",
+    "year": "1999",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q7507928",
+    "name": "Sid Terris",
+    "year": "2018",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q922860",
+    "name": "Marcel Thil",
+    "year": "2005",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q406742",
+    "name": "Gene Tunney",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q423236",
+    "name": "Rodrigo Valdez",
+    "year": "2025",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q918853",
+    "name": "Pancho Villa",
+    "year": "1994",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1691641",
+    "name": "Barbados Joe Walcott",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q734471",
+    "name": "Mickey Walker",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q942249",
+    "name": "Freddie Welsh",
+    "year": "1997",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1380989",
+    "name": "Jimmy Wilde",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q471845",
+    "name": "Jess Willard",
+    "year": "2003",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1646280",
+    "name": "Kid Williams",
+    "year": "1996",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q711879",
+    "name": "Harry Wills",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1646199",
+    "name": "Midget Wolgast",
+    "year": "2001",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1645998",
+    "name": "Teddy Yarosz",
+    "year": "2006",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q4858794",
+    "name": "Barbara Buttrick",
+    "year": "2020",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q5053412",
+    "name": "Cathy Davis",
+    "year": "2025",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q136416975",
+    "name": "JoAnn Hagen",
+    "year": "2023",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q124256334",
+    "name": "Theresa Kibby",
+    "year": "2024",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q24649833",
+    "name": "Jackie Tonawanda",
+    "year": "2021",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q24851641",
+    "name": "Marian Trimiar",
+    "year": "2021",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q2884688",
+    "name": "Barney Aaron",
+    "year": "2001",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3572838",
+    "name": "Young Barney Aaron",
+    "year": "2007",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q7814770",
+    "name": "Tom Allen",
+    "year": "2014",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2933769",
+    "name": "Caleb Baldwin",
+    "year": "2003",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q720394",
+    "name": "Jem Belcher",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1072719",
+    "name": "Benjamin Brain",
+    "year": "1994",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1346464",
+    "name": "Jack Broughton",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3160961",
+    "name": "James Burke",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3176927",
+    "name": "Jem Carney",
+    "year": "2006",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2865040",
+    "name": "Arthur Chambers",
+    "year": "2000",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1027102",
+    "name": "Joe Coburn",
+    "year": "2013",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q583602",
+    "name": "Tom Cribb",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3026569",
+    "name": "Dick Curtis",
+    "year": "2007",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3013056",
+    "name": "Dan Donnelly",
+    "year": "2008",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3406867",
+    "name": "Professor Mike Donovan",
+    "year": "1998",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3360338",
+    "name": "Paddy Duffy",
+    "year": "2008",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2903625",
+    "name": "Billy Edwards",
+    "year": "2004",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1323803",
+    "name": "James Figg",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1083399",
+    "name": "Joe Goss",
+    "year": "2003",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3181650",
+    "name": "John Gully",
+    "year": "2011",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3181160",
+    "name": "John C. Heenan",
+    "year": "2002",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3530749",
+    "name": "Tom Hyer",
+    "year": "2009",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1071975",
+    "name": "John Jackson",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1071970",
+    "name": "Tom Johnson",
+    "year": "1995",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3360324",
+    "name": "Paddington Tom Jones",
+    "year": "2010",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3530764",
+    "name": "Tom King",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3336298",
+    "name": "Nat Langham",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q678279",
+    "name": "Jem Mace",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1161746",
+    "name": "Daniel Mendoza",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1073208",
+    "name": "Tom Molineaux",
+    "year": "1997",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3049844",
+    "name": "John Morrissey",
+    "year": "1996",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1073223",
+    "name": "Hen Pearce",
+    "year": "1993",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3157297",
+    "name": "Jack Randall",
+    "year": "2005",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2903340",
+    "name": "Bill Richmond",
+    "year": "2005",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2517571",
+    "name": "Paddy Ryan",
+    "year": "2020",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2218218",
+    "name": "Dutch Sam",
+    "year": "1997",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3572842",
+    "name": "Young Dutch Sam",
+    "year": "2002",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3530878",
+    "name": "Tom Sayers",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3530895",
+    "name": "Tom Spring",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q370993",
+    "name": "John L. Sullivan",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q20741197",
+    "name": "Owen Swift",
+    "year": "2025",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2580789",
+    "name": "William Thompson",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q345721",
+    "name": "Jem Ward",
+    "year": "1995",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3161483",
+    "name": "James Wharton",
+    "year": "2012",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q345735",
+    "name": "Ray Arcel",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q887766",
+    "name": "Bob Arum",
+    "year": "1999",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q16089715",
+    "name": "Jarvis Astaire",
+    "year": "2006",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q88396636",
+    "name": "Giuseppe Ballarati",
+    "year": "1999",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q6390970",
+    "name": "Kenny Bayless",
+    "year": "2025",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q942982",
+    "name": "George Benton",
+    "year": "2001",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3148194",
+    "name": "Ignacio Beristáin",
+    "year": "2011",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q50196182",
+    "name": "Arthur Frederick Bettinson",
+    "year": "2011",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q7996393",
+    "name": "Q7996393",
+    "year": "2006",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3157128",
+    "name": "Jack Blackburn",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3783491",
+    "name": "William A. Brady",
+    "year": "1998",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q7881270",
+    "name": "Umberto Branchini",
+    "year": "2004",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q62009300",
+    "name": "Teddy Brenner",
+    "year": "1993",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q5673564",
+    "name": "Amílcar Brusa",
+    "year": "2007",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q28783",
+    "name": "Michael Buffer",
+    "year": "2012",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q5485664",
+    "name": "Frank Cappuccino",
+    "year": "2026",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2903151",
+    "name": "Bill Cayton",
+    "year": "2005",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q122766198",
+    "name": "Don Chargin",
+    "year": "2001",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q7599517",
+    "name": "Stanley Christodoulou",
+    "year": "2004",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3105528",
+    "name": "Q3105528",
+    "year": "1993",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q122766302",
+    "name": "James W. Coffroth",
+    "year": "1991",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q19662364",
+    "name": "Eugene Corri",
+    "year": "2014",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q556282",
+    "name": "Joe Cortez",
+    "year": "2011",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q537666",
+    "name": "Cus D'Amato",
+    "year": "1995",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1325952",
+    "name": "Lou DiBella",
+    "year": "2020",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q111087410",
+    "name": "Jeff Dickson",
+    "year": "2000",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q6838616",
+    "name": "Mickey Duff",
+    "year": "1999",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q176288",
+    "name": "Angelo Dundee",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q5292550",
+    "name": "Don Dunphy",
+    "year": "1993",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q3013060",
+    "name": "Dan Duva",
+    "year": "2003",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q1329514",
+    "name": "Nicolino Locche",
+    "year": "2003",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q328126",
+    "name": "Duilio Loi",
+    "year": "2005",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3015265",
+    "name": "Danny Lopez",
+    "year": "2010",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1396412",
+    "name": "Ricardo López",
+    "year": "2007",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q273206",
+    "name": "Joe Louis",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1346421",
+    "name": "Mike McCallum",
+    "year": "2003",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1001244",
+    "name": "Buddy McGirt",
+    "year": "2019",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2394683",
+    "name": "Barry McGuigan",
+    "year": "2005",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1362799",
+    "name": "Ray Mancini",
+    "year": "2015",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q188362",
+    "name": "Rocky Marciano",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q557497",
+    "name": "Juan Manuel Márquez Méndez",
+    "year": "2020",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1367962",
+    "name": "Rafael Márquez Méndez",
+    "year": "2023",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3257536",
+    "name": "Lloyd Marshall",
+    "year": "2010",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q777476",
+    "name": "Joey Maxim",
+    "year": "1994",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q318204",
+    "name": "Floyd Mayweather",
+    "year": "2021",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2924960",
+    "name": "Brian Mitchell",
+    "year": "2009",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q259186",
+    "name": "Bob Montgomery",
+    "year": "1995",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q724670",
+    "name": "Carlos Monzón",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q470731",
+    "name": "Archie Moore",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q732013",
+    "name": "Michael Moorer",
+    "year": "2024",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q557887",
+    "name": "Erik Morales",
+    "year": "2018",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q559462",
+    "name": "Shane Mosley",
+    "year": "2020",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1358273",
+    "name": "José Nápoles",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q173873",
+    "name": "Azumah Nelson",
+    "year": "2004",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2004305",
+    "name": "Terry Norris",
+    "year": "2005",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q707814",
+    "name": "Ken Norton",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q330723",
+    "name": "Michael Nunn",
+    "year": "2025",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1970483",
+    "name": "Rubén Olivares",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2412267",
+    "name": "Bobo Olson",
+    "year": "2000",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q719933",
+    "name": "Carlos Ortíz",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q673746",
+    "name": "Manuel Ortiz",
+    "year": "1996",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q486359",
+    "name": "Manny Pacquiao",
+    "year": "2024",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1747511",
+    "name": "Carlos Palomino",
+    "year": "2004",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q296473",
+    "name": "László Papp",
+    "year": "2001",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q922965",
+    "name": "Willie Pastrano",
+    "year": "2001",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q314051",
+    "name": "Floyd Patterson",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2527123",
+    "name": "Vinny Paz",
+    "year": "2025",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q719288",
+    "name": "Eusebio Pedroza",
+    "year": "1999",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1337778",
+    "name": "Willie Pep",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q467350",
+    "name": "Pascual Pérez",
+    "year": "1995",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1282936",
+    "name": "Eddie Perkins",
+    "year": "2008",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q281327",
+    "name": "Lupe Pintor",
+    "year": "2016",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1385420",
+    "name": "Aaron Pryor",
+    "year": "1996",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1268500",
+    "name": "Dwight Muhammad Qawi",
+    "year": "2004",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q128448",
+    "name": "Sugar Ramos",
+    "year": "2001",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q316706",
+    "name": "Sugar Ray Robinson",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q326667",
+    "name": "Luis Manuel Rodríguez",
+    "year": "1997",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1294939",
+    "name": "Edwin Rosario",
+    "year": "2006",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q331116",
+    "name": "Matthew Saad Muhammad",
+    "year": "1998",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q127088",
+    "name": "Sandy Saddler",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2394627",
+    "name": "Vicente Saldivar",
+    "year": "1999",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1356418",
+    "name": "Salvador Sánchez",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q77102",
+    "name": "Max Schmeling",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q708416",
+    "name": "Michael Spinks",
+    "year": "1994",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q969964",
+    "name": "Johnny Tapia",
+    "year": "2017",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q580514",
+    "name": "Antonio Tarver",
+    "year": "2026",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q326938",
+    "name": "Dick Tiger",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q535572",
+    "name": "James Toney",
+    "year": "2022",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1685019",
+    "name": "José Torres",
+    "year": "1997",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q249478",
+    "name": "Félix Trinidad",
+    "year": "2014",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1377617",
+    "name": "Kostya Tszyu",
+    "year": "2011",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q777362",
+    "name": "Randy Turpin",
+    "year": "2001",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q560461",
+    "name": "Jersey Joe Walcott",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q493263",
+    "name": "Andre Ward",
+    "year": "2021",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3139433",
+    "name": "Holman Williams",
+    "year": "2008",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q327003",
+    "name": "Ike Williams",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2394185",
+    "name": "Chalky Wright",
+    "year": "1997",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1386524",
+    "name": "Winky Wright",
+    "year": "2018",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q153968",
+    "name": "Yuh Myung-woo",
+    "year": "2013",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q963900",
+    "name": "Tony Zale",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2635493",
+    "name": "Hilario Zapata",
+    "year": "2016",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2393935",
+    "name": "Daniel Zaragoza",
+    "year": "2004",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1043307",
+    "name": "Carlos Zárate Serna",
+    "year": "1994",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1378567",
+    "name": "Fritzie Zivic",
+    "year": "1993",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q255099",
+    "name": "Laila Ali",
+    "year": "2021",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q4726229",
+    "name": "Alicia Ashley",
+    "year": "2023",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q11309205",
+    "name": "Jessica Chavez",
+    "year": "2025",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q6152106",
+    "name": "Jane Couch",
+    "year": "2024",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q11623874",
+    "name": "Naoko Fujioka",
+    "year": "2026",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q65937",
+    "name": "Regina Halmich",
+    "year": "2022",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q2414305",
+    "name": "Holly Holm",
+    "year": "2022",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q4354099",
+    "name": "Christy Martin",
+    "year": "2020",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q2850939",
+    "name": "Anne Sophie Mathis",
+    "year": "2025",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q6116565",
+    "name": "Jackie Nava",
+    "year": "2026",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q462162",
+    "name": "Lucia Rijker",
+    "year": "2020",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q3033422",
+    "name": "Mary Jo Sanders",
+    "year": "2025",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q50379670",
+    "name": "Laura Serrano García",
+    "year": "2023",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q4750448",
+    "name": "Ana María Torres",
+    "year": "2024",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q450647",
+    "name": "Ann Wolfe",
+    "year": "2021",
+    "boxer": true,
+    "female": true
+  },
+  {
+    "q": "Q331378",
+    "name": "Lou Ambers",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2877994",
+    "name": "Baby Arizmendi",
+    "year": "2004",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q318133",
+    "name": "Abe Attell",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q448481",
+    "name": "Max Baer",
+    "year": "1995",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2394657",
+    "name": "Jimmy Barry",
+    "year": "2000",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1646221",
+    "name": "Benny Bass",
+    "year": "2002",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2362164",
+    "name": "Christopher Battalino",
+    "year": "2003",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1643707",
+    "name": "Paul Berlenbach",
+    "year": "2001",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q5335861",
+    "name": "Eddie Booker",
+    "year": "2017",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q317017",
+    "name": "James J. Braddock",
+    "year": "2001",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1646026",
+    "name": "Jack Britton",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q5671204",
+    "name": "Harry Mullan",
+    "year": "2005",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3124601",
+    "name": "LeRoy Neiman",
+    "year": "2007",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q59656406",
+    "name": "Mario Rivera Martino",
+    "year": "2019",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q714880",
+    "name": "Damon Runyon",
+    "year": "2002",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q562874",
+    "name": "Budd Schulberg",
+    "year": "2003",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137462351",
+    "name": "Ed Schuyler Jr.",
+    "year": "2010",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q4933964",
+    "name": "Bob Sheridan",
+    "year": "2016",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q40026",
+    "name": "Sylvester Stallone",
+    "year": "2011",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q3246946",
+    "name": "Bert Sugar",
+    "year": "2005",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q4864840",
+    "name": "Barry Tompkins",
+    "year": "2017",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q4717949",
+    "name": "Q4717949",
+    "year": "2026",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842570",
+    "name": "Russ Anber",
+    "year": "2026",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842571",
+    "name": "Thomas S. Andrews",
+    "year": "1992",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842572",
+    "name": "Freddie Brown",
+    "year": "2021",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842573",
+    "name": "Bill Caplan",
+    "year": "2022",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842574",
+    "name": "Lorraine Chargin",
+    "year": "2018",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842576",
+    "name": "Arthur Donovan",
+    "year": "1993",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842575",
+    "name": "Cuco Conde",
+    "year": "2007",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842577",
+    "name": "Dewey Fragetta",
+    "year": "2003",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842578",
+    "name": "Don Fraser",
+    "year": "2005",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842580",
+    "name": "Brad Goodman",
+    "year": "2023",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842579",
+    "name": "Al Gavin",
+    "year": "2025",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842581",
+    "name": "Margaret Goodman",
+    "year": "2021",
+    "boxer": false,
+    "female": true
+  },
+  {
+    "q": "Q137842582",
+    "name": "Murray Goodman",
+    "year": "1999",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842583",
+    "name": "Dan Goossen",
+    "year": "2020",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842584",
+    "name": "Joe Goossen",
+    "year": "2023",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842585",
+    "name": "Bill Gore",
+    "year": "2008",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842586",
+    "name": "Flip Homansky",
+    "year": "2026",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842587",
+    "name": "Joe Humphreys",
+    "year": "1997",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842588",
+    "name": "Brad Jacobs",
+    "year": "2023",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842589",
+    "name": "Jackie McCoy",
+    "year": "2021",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842591",
+    "name": "George Parnassus",
+    "year": "1991",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842593",
+    "name": "Lee Samuels",
+    "year": "2019",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842594",
+    "name": "Rip Valenti",
+    "year": "2012",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842595",
+    "name": "Lou Viscusi",
+    "year": "2004",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842596",
+    "name": "Seth Abraham",
+    "year": "2023",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842597",
+    "name": "Lester Bromberg",
+    "year": "2001",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842598",
+    "name": "Jack Fiske",
+    "year": "2003",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842599",
+    "name": "Thomas Hauser",
+    "year": "2020",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842600",
+    "name": "Graham Houston",
+    "year": "2014",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842601",
+    "name": "Jersey Jones",
+    "year": "2005",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842603",
+    "name": "Tim Ryan",
+    "year": "2023",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q137842604",
+    "name": "Bob Yalen",
+    "year": "2022",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q20204936",
+    "name": "Dan Morgan",
+    "year": "2000",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q5538881",
+    "name": "George Edward Kimball",
+    "year": "2021",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q1646292",
+    "name": "Lucien Brouillard",
+    "year": "2006",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q375224",
+    "name": "Panama Al Brown",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3339154",
+    "name": "Newsboy Brown",
+    "year": "2012",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q275993",
+    "name": "Tommy Burns",
+    "year": "1996",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q712833",
+    "name": "Tony Canzoneri",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q983406",
+    "name": "Georges Carpentier",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q5537812",
+    "name": "George Chaney",
+    "year": "2014",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1740848",
+    "name": "Eligio Sardiñas Montalvo",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1646491",
+    "name": "Joe Choynski",
+    "year": "1998",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q41378138",
+    "name": "Q41378138",
+    "year": "2026",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q455494",
+    "name": "James John Corbett",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3043617",
+    "name": "Young Corbett II",
+    "year": "2010",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1644584",
+    "name": "Young Corbett III",
+    "year": "2004",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1646240",
+    "name": "Eugène Criqui",
+    "year": "2005",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q719300",
+    "name": "Les Darcy",
+    "year": "1993",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1644942",
+    "name": "Jack Delaney",
+    "year": "1996",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2393855",
+    "name": "Tony DeMarco",
+    "year": "2019",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1440806",
+    "name": "Nonpareil Dempsey",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q313686",
+    "name": "Jack Dempsey",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q684115",
+    "name": "Jack Dillon",
+    "year": "1995",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1231733",
+    "name": "Dixie Kid",
+    "year": "2002",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1388938",
+    "name": "George Dixon",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2393901",
+    "name": "Jim Driscoll",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q326997",
+    "name": "Johnny Dundee",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2739041",
+    "name": "Frank Erne",
+    "year": "2020",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3485763",
+    "name": "Sixto Escobar",
+    "year": "2002",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1374890",
+    "name": "Jackie Fields",
+    "year": "2004",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1589992",
+    "name": "Luis Ángel Firpo",
+    "year": "2024",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q472506",
+    "name": "Bob Fitzsimmons",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q527842",
+    "name": "Tiger Flowers",
+    "year": "1993",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q7801424",
+    "name": "Tiger Jack Fox",
+    "year": "2023",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q983110",
+    "name": "Joe Gans",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q717753",
+    "name": "Frankie Genaro",
+    "year": "1998",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3313334",
+    "name": "Mike Gibbons",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q720225",
+    "name": "Tommy Gibbons",
+    "year": "1993",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q384527",
+    "name": "George Godfrey",
+    "year": "2007",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q712859",
+    "name": "Harry Greb",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2392651",
+    "name": "Young Griffo",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q649104",
+    "name": "Yōkō Gushiken",
+    "year": "2015",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1645862",
+    "name": "Harry Harris",
+    "year": "2002",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q599476",
+    "name": "Len Harvey",
+    "year": "2008",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3376377",
+    "name": "Pete Herman",
+    "year": "1997",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3229561",
+    "name": "Leo Florian Hauck",
+    "year": "2012",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q711997",
+    "name": "Peter Jackson",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1646094",
+    "name": "Joe Jeanette",
+    "year": "1997",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q458292",
+    "name": "James J. Jeffries",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q316689",
+    "name": "Jack Johnson",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3111054",
+    "name": "Gorilla Jones",
+    "year": "2009",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q926367",
+    "name": "Rocky Kansas",
+    "year": "2010",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q771355",
+    "name": "Kid Kaplan",
+    "year": "2003",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q377874",
+    "name": "Stanley Ketchel",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q720245",
+    "name": "Johnny Kilbane",
+    "year": "1995",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3070287",
+    "name": "Jake Kilrain",
+    "year": "2012",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q739427",
+    "name": "Pone Kingpetch",
+    "year": "2023",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q640729",
+    "name": "Frank Klaus",
+    "year": "2008",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2550137",
+    "name": "Fidel LaBarba",
+    "year": "1996",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q776319",
+    "name": "Sam Langford",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1645858",
+    "name": "Kid Lavigne",
+    "year": "1998",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q5080144",
+    "name": "Charles Ledoux",
+    "year": "2014",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q818066",
+    "name": "Benny Leonard",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2392146",
+    "name": "Battling Levinsky",
+    "year": "2000",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q654848",
+    "name": "John Henry Lewis",
+    "year": "1994",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q326888",
+    "name": "Ted \"Kid\" Lewis",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q282138",
+    "name": "Tommy Loughran",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q818065",
+    "name": "Benny Lynch",
+    "year": "1998",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q642436",
+    "name": "Joe Lynch",
+    "year": "2005",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q345726",
+    "name": "Jack McAuliffe",
+    "year": "1995",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1065512",
+    "name": "Kid McCoy",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1646133",
+    "name": "Packey McFarland",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1257500",
+    "name": "Terry McGovern",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q720924",
+    "name": "Sam McVey",
+    "year": "1999",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1645961",
+    "name": "Sammy Mandell",
+    "year": "2005",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1646246",
+    "name": "Freddie Miller",
+    "year": "1997",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q346882",
+    "name": "Billy Miske",
+    "year": "2010",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1645871",
+    "name": "Charley Mitchell",
+    "year": "2002",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3374093",
+    "name": "Pedro Montañez",
+    "year": "2007",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3359003",
+    "name": "Owen Moran",
+    "year": "2002",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3530223",
+    "name": "Tod Morgan",
+    "year": "2022",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1173436",
+    "name": "Davey Moore",
+    "year": "2021",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3305549",
+    "name": "Memphis Pal Moore",
+    "year": "2011",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q811030",
+    "name": "Battling Nelson",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3196372",
+    "name": "Kid Norfolk",
+    "year": "2007",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2779046",
+    "name": "Philadelphia Jack O'Brien",
+    "year": "1994",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2392687",
+    "name": "Mike O'Dowd",
+    "year": "2014",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1980437",
+    "name": "Masao Ohba",
+    "year": "2015",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3195078",
+    "name": "Ken Overlin",
+    "year": "2015",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q930258",
+    "name": "Billy Papke",
+    "year": "2001",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2903697",
+    "name": "Billy Petrole",
+    "year": "2000",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q9372123",
+    "name": "Wesley Ramey",
+    "year": "2013",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3569104",
+    "name": "Willie Ritchie",
+    "year": "2004",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1643853",
+    "name": "Maxie Rosenbloom",
+    "year": "1993",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q808489",
+    "name": "Barney Ross",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q673192",
+    "name": "Jack Root",
+    "year": "2011",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1367745",
+    "name": "Tommy Ryan",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q11337418",
+    "name": "Petey Sarron",
+    "year": "2016",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3017239",
+    "name": "Dave Shade",
+    "year": "2011",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q427464",
+    "name": "Jack Sharkey",
+    "year": "1994",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2658055",
+    "name": "Tom Sharkey",
+    "year": "2003",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q651042",
+    "name": "Jimmy Slattery",
+    "year": "2006",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2394174",
+    "name": "Mysterious Billy Smith",
+    "year": "2009",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q55287093",
+    "name": "Stanley Weston",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q18754978",
+    "name": "Irving Cohen",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q11989760",
+    "name": "Mogens Palle",
+    "year": "2008",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q134094610",
+    "name": "Abe J. Greene",
+    "year": "2009",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q3127863",
+    "name": "Harry Lewis",
+    "year": "2008",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3182877",
+    "name": "Johnny Coulon",
+    "year": "1999",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q327410",
+    "name": "John Graham Chambers",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3470559",
+    "name": "Sam Taub",
+    "year": "1994",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q4700916",
+    "name": "Akihiko Honda",
+    "year": "2009",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q4912594",
+    "name": "Billy Gibson",
+    "year": "2009",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q530854",
+    "name": "Jimmy McLarnin",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q56676055",
+    "name": "Chris Dundee",
+    "year": "1994",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q62009291",
+    "name": "Barney Nagler",
+    "year": "2004",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q724819",
+    "name": "Pernell Whitaker",
+    "year": "2007",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q79031",
+    "name": "Mike Tyson",
+    "year": "2011",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1645991",
+    "name": "Adolph Wolgast",
+    "year": "2000",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q24298084",
+    "name": "Don Elbaum",
+    "year": "2019",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q62009282",
+    "name": "John F.X. Condon",
+    "year": "2015",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q36107",
+    "name": "Muhammad Ali",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q115033",
+    "name": "Sammy Angott",
+    "year": "1998",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q593043",
+    "name": "Fred Apostoli",
+    "year": "2003",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q467944",
+    "name": "Alexis Argüello",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q734339",
+    "name": "Henry Armstrong",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q732316",
+    "name": "Marco Antonio Barrera",
+    "year": "2017",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q723189",
+    "name": "Carmen Basilio",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1386541",
+    "name": "Wilfred Benítez",
+    "year": "1996",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q718305",
+    "name": "Nigel Benn",
+    "year": "2026",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1800396",
+    "name": "Nino Benvenuti",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q305256",
+    "name": "Jack Kid Berg",
+    "year": "1994",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q718047",
+    "name": "Jimmy Bivins",
+    "year": "1999",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q708185",
+    "name": "Riddick Bowe",
+    "year": "2015",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1396202",
+    "name": "Timothy Bradley",
+    "year": "2023",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q332060",
+    "name": "Joe Brown",
+    "year": "1996",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2398357",
+    "name": "Ken Buchanan",
+    "year": "2000",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q326882",
+    "name": "Charley Burley",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q586539",
+    "name": "Iván Calderón",
+    "year": "2024",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q471383",
+    "name": "Joe Calzaghe",
+    "year": "2014",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q114355",
+    "name": "Héctor Camacho",
+    "year": "2016",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2393866",
+    "name": "Orlando Canizales",
+    "year": "2009",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1396384",
+    "name": "Miguel Canto",
+    "year": "1998",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1355868",
+    "name": "Michael Carbajal",
+    "year": "2006",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q44135",
+    "name": "Jimmy Carter",
+    "year": "2000",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q347201",
+    "name": "Marcel Cerdan",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q601512",
+    "name": "Antonio Cervantes",
+    "year": "1998",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1646226",
+    "name": "Bobby Chacon",
+    "year": "2005",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q466425",
+    "name": "Jeff Chandler",
+    "year": "2000",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q491728",
+    "name": "Chang Jung-koo",
+    "year": "2010",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q471727",
+    "name": "Ezzard Charles",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q471461",
+    "name": "Julio César Chávez",
+    "year": "2011",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2396455",
+    "name": "Curtis Cokes",
+    "year": "2003",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q654686",
+    "name": "Billy Conn",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q543265",
+    "name": "Diego Corrales",
+    "year": "2024",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q543778",
+    "name": "Miguel Cotto",
+    "year": "2022",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1368771",
+    "name": "José Cuevas",
+    "year": "2002",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q326893",
+    "name": "Donald Curry",
+    "year": "2019",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q293534",
+    "name": "Oscar De La Hoya",
+    "year": "2014",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q471571",
+    "name": "Roberto Durán",
+    "year": "2007",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q983128",
+    "name": "Gabriel Elorde",
+    "year": "1993",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1686300",
+    "name": "Jeff Fenech",
+    "year": "2002",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q213919",
+    "name": "George Foreman",
+    "year": "2003",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q887932",
+    "name": "Bob Foster",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q102301",
+    "name": "Joe Frazier",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q277750",
+    "name": "Carl Froch",
+    "year": "2023",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q942573",
+    "name": "Gene Fullmer",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q983358",
+    "name": "Khaosai Galaxy",
+    "year": "1999",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q719662",
+    "name": "Víctor Galíndez",
+    "year": "2002",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q381484",
+    "name": "Arturo Gatti",
+    "year": "2013",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q942060",
+    "name": "Kid Gavilán",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q718929",
+    "name": "Joey Giardello",
+    "year": "1993",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1009230",
+    "name": "Gennady Golovkin",
+    "year": "2026",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1972279",
+    "name": "Wilfredo Gómez",
+    "year": "1995",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q686726",
+    "name": "Humberto González",
+    "year": "2006",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2903646",
+    "name": "Billy Graham",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q454699",
+    "name": "Rocky Graziano",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q59051",
+    "name": "Emile Griffith",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q560421",
+    "name": "Marvelous Marvin Hagler",
+    "year": "1993",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1355898",
+    "name": "Naseem Hamed",
+    "year": "2015",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q952577",
+    "name": "Fighting Harada",
+    "year": "1995",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q116516",
+    "name": "Ricky Hatton",
+    "year": "2024",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q560409",
+    "name": "Thomas Hearns",
+    "year": "2012",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q1341919",
+    "name": "Virgil Hill",
+    "year": "2013",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q370932",
+    "name": "Larry Holmes",
+    "year": "2008",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q313451",
+    "name": "Evander Holyfield",
+    "year": "2017",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q531804",
+    "name": "Bernard Hopkins",
+    "year": "2020",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q332351",
+    "name": "Beau Jack",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q536126",
+    "name": "Julian Jackson",
+    "year": "2019",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3237270",
+    "name": "Lew Jenkins",
+    "year": "1999",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q273768",
+    "name": "Éder Jofre",
+    "year": "1992",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q335872",
+    "name": "Ingemar Johansson",
+    "year": "2002",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q327251",
+    "name": "Harold Johnson",
+    "year": "1993",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q3294120",
+    "name": "Mark Johnson",
+    "year": "2012",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q955619",
+    "name": "Roy Jones Jr.",
+    "year": "2022",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2981344",
+    "name": "Herbert Lewis Hardwick",
+    "year": "2012",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q31919",
+    "name": "Vitali Klitschko",
+    "year": "2018",
+    "boxer": false,
+    "female": false
+  },
+  {
+    "q": "Q18797",
+    "name": "Wladimir Klitschko",
+    "year": "2021",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q2394608",
+    "name": "Ismael Laguna",
+    "year": "2001",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q335855",
+    "name": "Jake LaMotta",
+    "year": "1990",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q335798",
+    "name": "Sugar Ray Leonard",
+    "year": "1997",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q295328",
+    "name": "Lennox Lewis",
+    "year": "2009",
+    "boxer": true,
+    "female": false
+  },
+  {
+    "q": "Q313684",
+    "name": "Sonny Liston",
+    "year": "1991",
+    "boxer": true,
+    "female": false
+  }
+]
